@@ -136,16 +136,15 @@ This project combines real product data with simulated sales data to analyze LEG
 ##  Repository Structure
 
 
-LEGO-PowerBI-Analysis/
-│── lego.pbix
-│── lego_dataset.csv
-│── sales_dataset_generated.csv
-│── generate_sales_data.py
-│── README.md
-│── screenshots/
-│     ├── overview.png
-│     ├── explore.png
-│     ├── insights.png
+├── lego.pbix
+├── lego_dataset.csv
+├── sales_dataset_generated.csv
+├── generate_sales_data.ipynb
+├── README.md
+└── screenshots/
+    ├── overview.png
+    ├── explore.png
+    └── insights.png
 ```
 
 ---
